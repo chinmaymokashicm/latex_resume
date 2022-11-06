@@ -1,4 +1,11 @@
-*/*
-!README.md
-!*/*.tex
-!*/*.pdf
+
+# !README.md
+# !*/*.tex
+# !*/*.pdf
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
